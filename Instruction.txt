@@ -1,0 +1,5 @@
+Step 1: Fullfill Requiements.(Given in project folder.)
+Step 2: Change the directory to project folder, i.e., this folder in this case.
+Step 3: Open Command Line Interface.
+Step 4: Command : jupyter notebook
+Step 5: Run 'Breast Cancer Classification.ipynb' notebook

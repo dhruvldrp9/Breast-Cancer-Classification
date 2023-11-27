@@ -1,0 +1,4 @@
+1. Required Python installed in system.
+   Link : https://www.python.org/downloads/
+2. Required Jupyter Notebook
+   Link : https://jupyter.org/install
